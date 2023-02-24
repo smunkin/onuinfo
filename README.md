@@ -1,6 +1,8 @@
 # onuinfo
 
-BDCOM ONU information script
+BDCOM ONU information script for Zabbix
+
+This script send SNMP request to BDCOM OLT terminal and get information about ONU terminals. 
 
 INSTALL:
 - copy this script into your zabbix folder
